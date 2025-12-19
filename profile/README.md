@@ -4,6 +4,8 @@ Built for Big DNS.
 
 An application designed to provide advanced management and monitoring capabilities for the PowerDNS server suite.
 
+Discord Server: https://discord.dnsmin.org
+
 ## Features
 
 - Full Featured API
